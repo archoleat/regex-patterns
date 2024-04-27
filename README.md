@@ -1,5 +1,7 @@
 # Regex Patterns
 
+![NPM Version](https://img.shields.io/npm/v/%40archoleat%2Fregex-patterns)
+![NPM Downloads](https://img.shields.io/npm/dm/%40archoleat%2Fregex-patterns)
 ![CodeQL](https://img.shields.io/github/actions/workflow/status/archoleat/regex-patterns/codeql.yaml?label=CodeQL)
 ![Specs](https://img.shields.io/github/actions/workflow/status/archoleat/regex-patterns/spec.yaml?label=Specs)
 ![Commitlint](https://img.shields.io/github/actions/workflow/status/archoleat/regex-patterns/commitlint.yaml?label=Commitlint)
